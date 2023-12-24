@@ -1,0 +1,4 @@
+[core]
+    remote = wafer_data_remote_storage
+['remote "wafer_data_remote_storage"']
+    url = gs://mlops_datasets_storage/wafer
