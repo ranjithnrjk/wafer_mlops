@@ -1,9 +1,4 @@
 [core]
-<<<<<<< HEAD
     remote = wafer_data
 ['remote "wafer_data"']
-=======
-    remote = wafer_data_remote_storage
-['remote "wafer_data_remote_storage"']
->>>>>>> 744b16e489c1928fa3fe183d70ba5a333c6682fd
     url = gs://mlops_datasets_storage/wafer
